@@ -42,7 +42,6 @@ indicatif = "0.17.8"
 tracing = "0.1.40"
 futures-util = "0.3.30"
 maplit = "1.0.2"
-jito-block-engine-json-rpc-client = { git = "https://github.com/jito-foundation/jito-solana.git", package = "jito-block-engine-json-rpc-client" }
 futures = "0.3.31"
 
 # Dependencies for arbitrage bot
